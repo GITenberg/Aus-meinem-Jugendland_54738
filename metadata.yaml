@@ -1,11 +1,16 @@
 _repo: Aus-meinem-Jugendland_54738
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54738-h/images/cover.jpg
 creator:
   author:
     agent_name: Kurz, Isolde
     gutenberg_agent_id: '48023'
     url: http://www.gutenberg.org/2009/agents/48023
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54738#Aus-meinem-Jugendland
 gutenberg_issued: '2017-05-17'
 gutenberg_type: Text
 identifiers:
